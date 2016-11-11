@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="1.2.css" />
+  <title>lizixiang的网页</title>
+</head>
+<body>
+  <div class="nav">
+  <div class="web">web教程</div>
+  <ul>
+    <li><a href="http://www.w3school.com.cn/html/index.asp">HTML</a></li>
+    <li><a href="http://www.w3school.com.cn/css/index.asp">CSS</a></li>
+    <li><a href="http://www.w3school.com.cn/js/index.asp">JavaScript</a></li>
+    <li><a href="http://www.w3school.com.cn/jquery/index.asp">jQuery</a></li>
+    <li><a href="http://www.runoob.com/nodejs/nodejs-tutorial.html">Node.js</a></li>
+    <li><a href="http://www.runoob.com/angularjs/angularjs-tutorial.html">angular.js</a></li>
+    <li><a href="http://www.runoob.com/react/react-tutorial.html">React</a></li>
+    <li><a href="http://www.runoob.com/ajax/ajax-tutorial.html">AJAX</a></li>
+  </ul>
+</div>
+</body>
+</html>
